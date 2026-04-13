@@ -1,5 +1,7 @@
 {
-  "title": "comunity serve4",
-  "description": "a server",
-  "buttons": []
+  "title": "Mi servidor",
+  "buttons": [],
+  "configuration": {
+    "options": []
+  }
 }
